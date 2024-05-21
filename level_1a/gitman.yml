@@ -1,0 +1,6 @@
+location: .
+
+sources:
+  - repo: https://github.com/kstenerud/iOS-Universal-Framework
+    name: framework
+    rev: Mk5-end-of-life

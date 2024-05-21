@@ -1,0 +1,6 @@
+location: .
+
+sources:
+  - repo: https://github.com/FortAwesome/Font-Awesome
+    name: fontawesome
+    rev: master
